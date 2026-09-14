@@ -1,9 +1,3 @@
-Looking at your file structure, I see this is actually a streamlined custom PHP application rather than a heavy Laravel framework build. It perfectly isolates the admin and staff workflows and incorporates modern real-time updates using Server-Sent Events (SSE).
-
-Here is a professional `README.md` tailored specifically to the file architecture of your `ink-system`.
-
----
-
 # Sistem Permohonan Dakwat Printer (Ink Inventory Management System) 🖨️💧
 
 ## Overview
